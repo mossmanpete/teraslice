@@ -697,6 +697,11 @@
   resolved "https://registry.yarnpkg.com/@types/debug/-/debug-0.0.31.tgz#bac8d8aab6a823e91deb7f79083b2a35fa638f33"
   integrity sha512-LS1MCPaQKqspg7FvexuhmDbWUhE2yIJ+4AgVIyObfc06/UKZ8REgxGNjZc82wPLWmbeOm7S+gSsLgo75TanG4A==
 
+"@types/elasticsearch@^5.0.29":
+  version "5.0.29"
+  resolved "https://registry.yarnpkg.com/@types/elasticsearch/-/elasticsearch-5.0.29.tgz#71acd16f978630a8bf373c2ac35869457fd914a2"
+  integrity sha512-bLCCbLqTh7dbsrlPsdWFt/wNg+qglHy4XJPfrf1Ls61HPm2LV5PXklc1qSz9aXnVzcpgPrKhF9f6ZOG2R4k1yQ==
+
 "@types/fs-extra@^5.0.4":
   version "5.0.4"
   resolved "https://registry.yarnpkg.com/@types/fs-extra/-/fs-extra-5.0.4.tgz#b971134d162cc0497d221adde3dbb67502225599"
@@ -2853,7 +2858,7 @@ elasticsearch@^14.2.1:
     lodash.isempty "^4.4.0"
     lodash.trimend "^4.5.1"
 
-elasticsearch@^15.1.1:
+elasticsearch@^15.1.1, elasticsearch@^15.2.0:
   version "15.2.0"
   resolved "https://registry.yarnpkg.com/elasticsearch/-/elasticsearch-15.2.0.tgz#234362b5aa743d9c0a925566569ea7813b8f2569"
   integrity sha512-jOFcBoEh3Sn3gjUTozInODZTLriJtfppAUC7jnQCUE+OUj8o7GoAyC+L4h/L3ZxmXNFbQCunqVR+nmSofHdo9A==
